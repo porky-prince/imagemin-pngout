@@ -1,6 +1,6 @@
 'use strict';
 const isPng = require('is-png');
-const pngout = require('pngout-bin');
+const pngout = require('@porky-prince/pngout-bin');
 const execa = require('execa');
 
 module.exports = options => async buf => {

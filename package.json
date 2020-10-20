@@ -1,6 +1,6 @@
 {
 	"name": "@porky-prince/imagemin-pngout",
-	"version": "5.0.0",
+	"version": "5.0.1",
 	"description": "pngout imagemin plugin",
 	"license": "MIT",
 	"repository": "imagemin/imagemin-pngout",
