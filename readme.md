@@ -2,7 +2,7 @@
 
 > pngout imagemin plugin
 
-> use https://npm.taobao.org/mirrors/pngquant-bin/ as downlaod source
+> use https://npm.taobao.org/mirrors/pngout-bin/ as downlaod source
 
 ## Install
 
